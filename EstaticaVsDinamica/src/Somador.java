@@ -5,7 +5,6 @@ public class Somador {
   void somar(){
     valorInstancia++;
     valorEstatica++;
-
   }
 
   void imprimir() {
